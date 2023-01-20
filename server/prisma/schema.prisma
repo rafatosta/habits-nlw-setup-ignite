@@ -15,8 +15,8 @@ datasource db {
 }
 
 model Habit {
-  id        String   @id @default(uuid())
-  title     String
+  id         String   @id @default(uuid())
+  title      String
   created_at DateTime
 
   dayHabits DayHabit[]
