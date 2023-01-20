@@ -1,5 +1,5 @@
 import { StatusBar } from "react-native";
-import { Home } from "./screens/Home";
+import { Home } from "./src/screens/Home";
 
 
 import {
