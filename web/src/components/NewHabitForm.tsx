@@ -15,7 +15,7 @@ export function NewHabitForm() {
                 autoFocus />
             <label htmlFor=""
                 className="font-semibold leading-tight mt-4">
-                Qual a recorrência
+                Qual a recorrência?
             </label>
 
             <button type="submit"
